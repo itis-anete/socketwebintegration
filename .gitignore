@@ -3,3 +3,7 @@
 ################################################################################
 
 /SocketWebIntegration/.vs
+/SocketWebIntegration/SocketServer/bin/Debug/netcoreapp2.1
+/SocketWebIntegration/SocketServer/obj
+/SocketWebIntegration/WebHost/bin/Debug/netcoreapp2.1
+/SocketWebIntegration/WebHost/obj
